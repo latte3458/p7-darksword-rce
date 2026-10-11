@@ -1,2 +1,5 @@
 # R7 DarkSword RCA (aka. GhostWave)
-GhostWave aka "R7 DarkSword" RCE exploit. Works on iOS 18.7 - 26.3. 
+GhostWave aka "R7 DarkSword" RCE exploit. Works on iOS 18.4 - 26.3. 
+
+DISCLAIMER: the information and code provided in this repository are for educational and research purposes only. The author accepts no liability for any misuse, damage, or illegal activity caused by the information or code contained herein. Use at your own risk.
+
